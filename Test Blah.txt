@@ -6,7 +6,11 @@ test blah me
 gay lkasdflkjasdfkljasdflkj
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 branch test
 =======
 maion test
+>>>>>>> origin/master
+=======
+maion test asdfgsdgsdfg
 >>>>>>> origin/master
