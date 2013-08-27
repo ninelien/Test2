@@ -5,4 +5,8 @@ hey blah ehy
 test blah me
 gay lkasdflkjasdfkljasdflkj
 
+<<<<<<< HEAD
 branch test
+=======
+maion test
+>>>>>>> origin/master
